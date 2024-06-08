@@ -38,5 +38,13 @@ De los cuales se omitira el no especificado, por motivo de querer estudiar la re
 * INSTRUCTIVO DE LLENADO DE LA HOJA DIARIA DEL SERVICIO DE URGENCIAS (SINBA-SEUL-16-P DGIS) MODELO 2024: http://www.dgis.salud.gob.mx/descargas/urgencias/pdf/Instructivo_Urgencias_2024.pdf
 ---
 
+Instalamos las librerias necesarias para poder llevar acabo esta practica:
+* mysql-connector-python: Para realizar la conexion a la base de datos.  
+* matplotlib: Para graficar los datos que se desean analizar.
+* pandas: Para manejar los datos de manera mas sencilla.
+
+`!pip install mysql-connector-python matplotlib pandas`
+
+---
 
 ## *Eduardo Alonso Martinez Chenoweth*
